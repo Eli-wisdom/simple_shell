@@ -1,12 +1,6 @@
-# 0x16 Simple Shell
- **By Mawuena wisdom Eli and Souhial Fellaki**
- Ths project is to be done bt thees two individuals.
+# 0x16. C - Simple Shell
+ **project by wisdom eli and Souhail Fellaki**
+ Project to be done by 2 people (your team: Mawuena Wisdom Eli, Souhail Fellaki)
 
-
-# Compilation
-## Our shell will be compiled  this way:
-`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
-
-
-# files
-
+# Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone.
